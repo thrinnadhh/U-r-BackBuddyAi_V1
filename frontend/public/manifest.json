@@ -1,0 +1,26 @@
+{
+    "name": "Health Guard - Productivity & Wellness Assistant",
+    "short_name": "HealthGuard",
+    "description": "Stay healthy and productive with smart break reminders and posture alerts",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2563eb",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "https://cdn-icons-png.flaticon.com/512/2942/2942813.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable any"
+      },
+      {
+        "src": "https://cdn-icons-png.flaticon.com/512/2942/2942813.png", 
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable any"
+      }
+    ],
+    "categories": ["productivity", "health", "lifestyle"],
+    "screenshots": []
+  }
